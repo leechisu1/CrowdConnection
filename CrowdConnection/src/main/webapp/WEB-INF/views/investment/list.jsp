@@ -411,6 +411,7 @@
   </div>
        		<address class="top">
        			<strong>copyrightwebstoryboyAll rights Reserved.</strong>
+       			<strong>copyrightwebstoryboyAll rights Reserved.</strong>
        		</address>
 </footer>
 </html>
